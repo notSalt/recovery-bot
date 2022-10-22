@@ -1,0 +1,25 @@
+{
+  "name": "recovery-bot",
+  "version": "1.0.0",
+  "description": "makeshift bot to restore hacked discord servers",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notSalt/recovery-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/notSalt/recovery-bot/issues"
+  },
+  "homepage": "https://github.com/notSalt/recovery-bot#readme",
+  "dependencies": {
+    "@sapphire/framework": "latest",
+    "discord.js": "^13.12.0"
+  }
+}
